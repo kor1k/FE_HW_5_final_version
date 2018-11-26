@@ -145,7 +145,7 @@ table {
 
 .text_in_td_centered {
     /*padding-left: 10px;*/
-
+    line-height: 0px;
     display: flex;
     justify-content: center;
     align-items: center;
